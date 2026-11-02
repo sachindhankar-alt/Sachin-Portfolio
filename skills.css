@@ -1,0 +1,41 @@
+h2 {
+    margin-top: 32px;
+    color: #0e7490;
+}
+
+h3 {
+    margin: 24px 0 10px;
+    color: #155e75;
+}
+
+ul,
+ol {
+    padding: 18px 18px 18px 42px;
+    background: white;
+    border: 1px solid #a5f3fc;
+    border-radius: 12px;
+    box-shadow: 0 7px 20px #164e630d;
+}
+
+li {
+    padding: 5px 0;
+}
+
+li p {
+    margin: 6px 0 8px;
+    color: #526174;
+}
+
+a {
+    display: inline-block;
+    margin-top: 18px;
+    padding: 11px 18px;
+    background: #0e7490;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+a:hover {
+    background: #155e75;
+}
